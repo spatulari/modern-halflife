@@ -1,5 +1,8 @@
 # Modern Half-Life
 
+## Development
+Development has stopped. Feel free to fork
+
 ![C++23](https://img.shields.io/badge/C%2B%2B-23-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-success)
 ![License](https://img.shields.io/badge/license-Valve_SDK-lightgrey)
